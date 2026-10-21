@@ -89,20 +89,6 @@ print(me.current_goal())
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/xAkshat?tab=repositories">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=xAkshat&repo=YOUR_PROJECT_REPOSITORY&theme=tokyonight&hide_border=true" alt="Featured project"/>
-</a>
-
-</div>
-
-> Replace `YOUR_PROJECT_REPOSITORY` with the name of an actual repository you want to showcase.
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
